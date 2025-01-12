@@ -12,8 +12,9 @@ The cute animated design-inspired mood-tracking app allows users to input their 
 Individuals aged 13 and above who enjoy introspection and journaling, as well as those seeking a supportive tool to track and better understand their emotions.
 
 ## High fidelity prototype
-
+![frames MoodMoji](frames.jpg)
 
 ## User Flow Diagram
+![flow MoodMoji](flow.jpg)
 
 
