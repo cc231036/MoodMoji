@@ -17,4 +17,6 @@ Individuals aged 13 and above who enjoy introspection and journaling, as well as
 ## User Flow Diagram
 ![flow MoodMoji](flow.jpg)
 
+## Usability Test
+[Download the Usability Test](MoodMojiUsabilityTest.pdf)
 
