@@ -1,6 +1,6 @@
 ## App Name: MoodMoji
 
-[Download app](app-debug.apk)
+[Download app](moodmoji.apk)
 
 ## Description
 The cute animated design-inspired mood-tracking app allows users to input their daily thoughts and emotions through emojis and journal writing.
