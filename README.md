@@ -25,6 +25,12 @@ Together – Worked on pop-up windows, conducted testing, and collaborated on de
 ## User Flow Diagram
 ![flow MoodMoji](flow.jpg)
 
+## User Flow Diagram
+![Database](database.jpg)
+
+
+
+
 ## Usability Test
 [Download the Usability Test](MoodMojiUsabilityTest.pdf)
 
