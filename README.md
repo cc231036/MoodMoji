@@ -25,7 +25,7 @@ Together – Worked on pop-up windows, conducted testing, and collaborated on de
 ## User Flow Diagram
 ![flow MoodMoji](flow.jpg)
 
-## User Flow Diagram
+## Database 
 ![Database](database.jpg)
 
 The MoodEntity ID is auto-generated and distinct from the emoji ID. The EmojiId corresponds to the Emoji class, EmojiId=id(Emoji class), which is assigned a number ranging from 1 to 12. The properties associated with each emoji are retrieved from the database based on the saved EmojiId.
