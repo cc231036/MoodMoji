@@ -80,15 +80,9 @@ No major issues found.
 
 **Solution:** Considering to add error messages. 
 
-**10.Help and Documentation**
+**10. Help and Documentation**
 
 No major issues found.
-
-
-
-
-
-
 
 
 **Strenghts:** 
@@ -112,8 +106,9 @@ The usability test was conducted with 5 participants, focusing on understanding 
 2. The calendar-based navigation system will allow users to easily access and navigate their mood records over time.
 
 **Questions**:
-1. Are users able to complete the "Add Mood" and "Update" actions without external help?
-2. Does the app encourage consistent mood tracking over time?
+1. Do the emojis encourage consistent mood tracking over time?
+2. Are users able to complete the "Add Mood" and "Update" actions without external help?
+
 
 ## Metrics
 1. Task Completion Rate
