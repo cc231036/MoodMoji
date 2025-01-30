@@ -35,7 +35,62 @@ By the day before our final presentation, the app was fully functional. We manag
 The MoodEntity ID is auto-generated and distinct from the emoji ID. The EmojiId corresponds to the Emoji class, EmojiId=id(Emoji class), which is assigned a number ranging from 1 to 12. The properties associated with each emoji are retrieved from the database based on the saved EmojiId.
 
 
-## Heuristic Evaluation
+## Heuristic Evaluation during app development
+**1. Visibility of System Status**
+
+No major issues found.
+
+**2. Match Between System and Real World**
+
+No major issues found.
+
+**3. User Control and Freedom**
+
+**Issue:** Users can easily edit or delete mood entries easily, but there’s no confirmation dialogue after deleting an entry. 
+
+**Solution:** Adding a confirmation dialog for delete actions to avoid accidental loss of data. 
+
+**4. Consistency and Standards**
+
+No major issues found.
+
+**5. Error Prevention**
+
+**Issue:** The app prevents invalid inputs by disabling the "Add Mood" button if no emoji is selected, but the journal field doesn’t validate excessive input. 
+
+**Solution:** Adding input length limits or warnings for the journal field to prevent saving excessively long entries. 
+
+**6. Recognition Rather Than Recall**
+
+No major issues found.
+
+**7. Flexibility and Efficiency of Use**
+
+**Issue:** Basic users can track moods quickly, but advanced users may find it difficult to analyse trends over time without detailed reports.
+
+**Solution:** Adding optional features like mood graphs or filters for advanced users. 
+
+**8. Aesthetics and Minimalist Design**
+
+No major issues found.
+
+**9. Help Users Recognize, Diagnose, and Recover from Errors**
+
+**Issue:** There are no error messages or warning when deleting an entry. 
+
+**Solution:** Considering to add error messages. 
+
+**10.Help and Documentation**
+
+No major issues found.
+
+
+
+
+
+
+
+
 **Strenghts:** 
 - The use of emojis for mood tracking is intuitive, making it engaging and easy for users to understand and interact with.
 - A clean and consistent design across the app improves usability and reduces cognitive load.
