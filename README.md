@@ -131,13 +131,79 @@ After all of the tasks were realized, testers were given a SUS and post-task que
 
 ## Results
 
+**1. SUS Scores**
+
+To assess overall usability, we conducted a SUS survey after all of the tasks were performed. We achieved an average score of **90.5** (Excellent), with the highest score being **97.5** (Excellent) and the lowest being **70** (Good).
+
+
+**2. Task Completion Rate**
+
+During the testing process, all participants succesfully completed their tasks, resulting in a 100% task completion rate. This high success rate indicates that the app’s features are easy to understand and interact with.
+
+**3. Qualitative Feedback**
+
+To complement the quantitative results, we collected user feedback on their experience navigating and using the app using a post task questionnaire.
+
+**3.1 How was it to navigate the app?**
+
+![Figure 1: Navigation use](Figure1.jpg)
+- 4 users for the app very easy to naviagte
+  
+- 1 user found the app easy to navigate
+
+Most users found the navigation smooth and effortless, appreciating the layout and design. The calendar view was especially well-received.
+
+![Figure 2: General use](Figure2.jpg)
+
+- 4 users for the app very easy to use
+  
+- 1 user found the app easy to use
+
+MoodMoji was generally described as straightforward. Users liked the emoji-based mood tracking, finding it a fun and simple way to log emotions and record their feelings.
+
+![Figure 4: Task difficulty](Figure3.jpg)
+
+- 3 users didn't encounter any difficulties while performing the tasks
+  
+- 2 users encountered some difficulties while performing the tasks
+
+The users who didnt encounter any difficulties found the app self-explanatory, while the users who found them, one explained that the keyboard layout was a problem and the other said that he wasn't aware of the current date and the date he chooses. We found that the problem wasn't actually from our side, since the day gets highighted wuth a green stroke when pressing on it.
+
+**Users feedback:**
+
+- App is easy to use and convenient
+- Moods variety
+- Liked the style, calendar view looks great and the mood view
+- Mood entries
+- The "encouragement" messages users get when they log their mood.
+
+
+**Areas of improvement**
+
+- Some emojis are not understandable
+- The order of the "delete" and "save" buttons should be switched.
+
+
+**Users suggestions**
+
+- Better choice of emojis
+- More feedback from the app
+- Switching the buttons order
+- Keyboard layout covered a button
+- Allow users to add their own emojis
+- Have a bigger moods selection
+- Other people to see their mood
+
+Based on user feedback and the initial heuristic evaluation we performed during the app development, we expanded and refined the mood choices, and went from 9 to 12, but switched some moods with better choices. We also added more feedback from the app when not registering an emoji, or when the user wants to delete an entry. The buttons order was also switched for better usability.
+
+
 ## Final App 
 ![Final App](Screens.jpg)
 
 ## Contributions
 **Sara**-Designed and integrated the database, implemented the calendar view UI and logic, developed the journal feature, managed navigation, created the emoji object and applied its properties across the app, contributed to testing, and worked on the landing screen.
 
-**Nicoleta** – Designed the high-fidelity Figma prototype, integrated navigation with pop-up windows, refined design details throughout the app, implemented the confirmation dialog box, prepared emoji images, and tested design responsiveness across different phone sizes.
+**Nicoleta** – Designed the high-fidelity Figma prototype, integrated navigation with pop-up windows, refined design details throughout the app, implemented the confirmation dialog box, prepared emoji images, performed the usability test and tested design responsiveness across different phone sizes.
 
 **Together** – Worked on pop-up windows, conducted testing, and collaborated on design ideas.
 
