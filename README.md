@@ -208,6 +208,9 @@ Based on user feedback and the initial heuristic evaluation we performed during 
 **Together** – Worked on pop-up windows, conducted testing, and collaborated on design ideas.
 
 ## Final Thoughts
-**Sara**-
+The final version of MoodMoji aligned perfectly with our initial concept. Throughout development, we made meaningful improvements, such as refining the mood selection and enhancing user feedback. However, there’s still some room for growth. Future improvements could include:
 
-**Nicoleta**- --adding later--
+- More customization options such as user profile, themes;
+- Adding graphics, statistics.
+
+This project was a valuable learning experience for both of us since it was the first time we had to work on a Code Lab together. Despite that, we quickly adapted to each other’s working styles, divided tasks efficiently, and managed our time well enough to finish everything in time. Collaborating on both the technical and design aspects helped us improve our skills, and we’re proud of how smoothly we structured the entire process. We achieved our initial goal creating a functional and engaging mood-tracking app—while also learning and improving along the way.
