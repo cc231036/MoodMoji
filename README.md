@@ -35,7 +35,7 @@ By the day before our final presentation, the app was fully functional. We manag
 The MoodEntity ID is auto-generated and distinct from the emoji ID. The EmojiId corresponds to the Emoji class, EmojiId=id(Emoji class), which is assigned a number ranging from 1 to 12. The properties associated with each emoji are retrieved from the database based on the saved EmojiId.
 
 
-## Heuristic Evaluation during app development
+## Heuristic Evaluation During App Development
 **1. Visibility of System Status**
 
 No major issues found.
@@ -111,10 +111,9 @@ The usability test was conducted with 5 participants, focusing on understanding 
 
 
 ## Metrics
-1. Task Completion Rate
-2. Error Rate
-3. SUS Score
-4. Qualitative Feedback
+1. SUS Score
+2. Task Completion Rate
+3. Qualitative Feedback
 
 
 ## Tasks
@@ -131,11 +130,9 @@ The usability test was conducted with 5 participants, focusing on understanding 
 After all of the tasks were realized, testers were given a SUS and post-task questionnaire.
 
 ## Results
---adding later--
 
 ## Final App 
---adding later pics and description--
-
+![Final App](Screens.jpg)
 
 ## Contributions
 **Sara**-Designed and integrated the database, implemented the calendar view UI and logic, developed the journal feature, managed navigation, created the emoji object and applied its properties across the app, contributed to testing, and worked on the landing screen.
