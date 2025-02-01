@@ -144,7 +144,6 @@ During the testing process, all participants succesfully completed their tasks, 
 
 To complement the quantitative results, we collected user feedback on their experience navigating and using the app using a post task questionnaire.
 
-**3.1 How was it to navigate the app?**
 
 ![Figure 1: Navigation use](Figure1.jpg)
 - 4 users for the app very easy to naviagte
@@ -152,6 +151,7 @@ To complement the quantitative results, we collected user feedback on their expe
 - 1 user found the app easy to navigate
 
 Most users found the navigation smooth and effortless, appreciating the layout and design. The calendar view was especially well-received.
+
 
 ![Figure 2: General use](Figure2.jpg)
 
@@ -161,38 +161,39 @@ Most users found the navigation smooth and effortless, appreciating the layout a
 
 MoodMoji was generally described as straightforward. Users liked the emoji-based mood tracking, finding it a fun and simple way to log emotions and record their feelings.
 
-![Figure 4: Task difficulty](Figure3.jpg)
+
+![Figure 3: Task difficulty](Figure3.jpg)
 
 - 3 users didn't encounter any difficulties while performing the tasks
   
 - 2 users encountered some difficulties while performing the tasks
 
-The users who didnt encounter any difficulties found the app self-explanatory, while the users who found them, one explained that the keyboard layout was a problem and the other said that he wasn't aware of the current date and the date he chooses. We found that the problem wasn't actually from our side, since the day gets highighted wuth a green stroke when pressing on it.
+The users who didnt encounter any difficulties found the app self-explanatory, while the users who found them, one explained that the keyboard layout was a problem and the other said that he wasn't aware of the current date and the date he chooses. The problem wasn't actually from our side, since the day gets higlighted with a green stroke when pressing on it.
 
 **Users feedback:**
 
-- App is easy to use and convenient
-- Moods variety
-- Liked the style, calendar view looks great and the mood view
-- Mood entries
+- App is easy to use and convenient;
+- Moods variety;
+- Liked the style, calendar view looks great and the mood view;
+- Mood entries;
 - The "encouragement" messages users get when they log their mood.
 
 
 **Areas of improvement**
 
-- Some emojis are not understandable
+- Some emojis are not understandable;
 - The order of the "delete" and "save" buttons should be switched.
 
 
 **Users suggestions**
 
-- Better choice of emojis
-- More feedback from the app
-- Switching the buttons order
-- Keyboard layout covered a button
-- Allow users to add their own emojis
-- Have a bigger moods selection
-- Other people to see their mood
+- Better choice of emojis;
+- More feedback from the app;
+- Switching the buttons order;
+- Keyboard layout covered a button;
+- Allow users to add their own emojis;
+- Have a bigger moods selection;
+- Other people to see their mood.
 
 Based on user feedback and the initial heuristic evaluation we performed during the app development, we expanded and refined the mood choices, and went from 9 to 12, but switched some moods with better choices. We also added more feedback from the app when not registering an emoji, or when the user wants to delete an entry. The buttons order was also switched for better usability.
 
